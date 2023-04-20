@@ -1,0 +1,11 @@
+*
+!/src
+!*.md
+/src/*
+!/src/*.cpp
+!/src/*.h
+!/src/CMakeLists.txt
+!/include
+/include/*
+!/include/*.h
+
